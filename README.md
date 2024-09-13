@@ -1,7 +1,7 @@
 # datafun-03-project
 
 ## Create Project Virtual Environment
-
+#edit for testing git push
 On Windows, create a project virtual environment in the .venv folder. 
 
 ```shell
@@ -19,3 +19,6 @@ git add .
 git commit -m "add .gitignore, cmds to readme"
 git push origin main
 ```
+
+
+
