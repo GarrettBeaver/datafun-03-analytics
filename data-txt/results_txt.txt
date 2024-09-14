@@ -1,4 +1,6 @@
-Number of counts of war: 1305
-x594883
-x1305
-x141
+Occurances of word war: 1305
+Occurances of word peace:141
+Number of characters in book:3811891
+Number of words:594883
+Longest word:content="https://www.gutenberg.org/ebooks/2600/pg2600.cover.medium.jpg">
+Shortest word:{
