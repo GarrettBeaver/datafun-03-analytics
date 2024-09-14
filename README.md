@@ -1,23 +1,27 @@
-# datafun-03-project
+# datafun-03-analytics
 
-## Create Project Virtual Environment
-#edit for testing git push
-On Windows, create a project virtual environment in the .venv folder. 
+This project showcases new python topics that were learned over the past week.
+
+## Create and Activate Project Virtual Environment
 
 ```shell
-
 py -m venv .venv
 .venv\Scripts\Activate
-py -m pip install -r requirements.txt
-
+py -m pip install -r "requirements.txt"
 ```
 
-## Git add and commit 
+## Freeze Requirements
+
+```shell
+py -m pip freeze > requirements.txt
+```
+
+## Git Add / Commit / Push 
 
 ```shell
 git add .
-git commit -m "add .gitignore, cmds to readme"
-git push origin main
+git commit -m "add .gitignore, commands to README.md"
+git push -u origin main
 ```
 
 
